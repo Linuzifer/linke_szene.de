@@ -1,0 +1,16 @@
+ body {
+ 	background: black;
+ 	color: red;
+ 	font-family: arial, helvetica, sans-serif;
+ 	line-height: 1.5em;
+ }
+
+ a, a:active, a:visited {
+ 	color: red;
+ 	text-decoration: underline;
+ 	font-weight: bold;
+ }
+
+li {
+	margin: 0 0 10px 0;
+}
